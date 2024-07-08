@@ -1,0 +1,17 @@
+brand,price,weight,crust,cheese,size,toppings,spicy,ranking
+Dominos,$1.00,100g,thin,Mozzarella,regular,paneer,normal,11
+Pizza hut,$3.00,100g,thin,Cheddar,large,mushroom,normal,12
+Onesta,$4.00,200g,thin,Mozzarella,regular,mushroom,normal,9
+Pizza hut,$4.00,400g,thick,Cheddar,regular,paneer,normal,2
+Pizza hut,$2.00,300g,thin,Mozzarella,regular,mushroom,extra,8
+Pizza hut,$1.00,200g,thick,Mozzarella,large,paneer,extra,13
+Onesta,$3.00,300g,thick,Mozzarella,large,paneer,normal,7
+Dominos,$4.00,300g,thin,Cheddar,large,paneer,extra,4
+Dominos,$2.00,400g,thick,Mozzarella,large,mushroom,normal,5
+Oven Story,$4.00,100g,thick,Mozzarella,large,mushroom,extra,16
+Onesta,$1.00,400g,thin,Cheddar,large,mushroom,extra,3
+Oven Story,$2.00,200g,thin,Cheddar,large,paneer,normal,6
+Oven Story,$1.00,300g,thick,Cheddar,regular,mushroom,normal,10
+Onesta,$2.00,100g,thick,Cheddar,regular,paneer,extra,15
+Oven Story,$3.00,400g,thin,Mozzarella,regular,paneer,extra,1
+Dominos,$3.00,200g,thick,Cheddar,regular,mushroom,extra,14
